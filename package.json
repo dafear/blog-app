@@ -2,7 +2,7 @@
   "name": "blog-app",
   "version": "1.0.0",
   "description": "new-blog-challenge",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "mocha"
   },
@@ -17,6 +17,7 @@
     "mocha": "^3.3.0",
     "mongoose": "^4.9.7",
     "morgan": "^1.8.1",
+    "semver": "^5.3.0",
     "uuid": "^3.0.1"
   }
 }
