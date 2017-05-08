@@ -4,7 +4,8 @@
   "description": "new-blog-challenge",
   "main": "server.js",
   "scripts": {
-   "test": "mocha"
+   "test": "mocha",
+   "start": "node server.js"
   },
   "author": "Dhafir Fuller",
   "license": "ISC",
